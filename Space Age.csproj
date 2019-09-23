@@ -245,6 +245,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MusicPlayer.cs" />
+    <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\StarSparrow\Readme\Readme Files\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
