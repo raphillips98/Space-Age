@@ -365,6 +365,36 @@ Prefab:
       propertyPath: deathFX
       value: 
       objectReference: {fileID: 1511852871}
+    - target: {fileID: 198625916842691996, guid: 69e489815d10e264795954a75edde964,
+        type: 2}
+      propertyPath: randomSeed
+      value: -2034433091
+      objectReference: {fileID: 0}
+    - target: {fileID: 198625916842691996, guid: 69e489815d10e264795954a75edde964,
+        type: 2}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198625916842691996, guid: 69e489815d10e264795954a75edde964,
+        type: 2}
+      propertyPath: CollisionModule.type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198979550433905892, guid: 69e489815d10e264795954a75edde964,
+        type: 2}
+      propertyPath: CollisionModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 198979550433905892, guid: 69e489815d10e264795954a75edde964,
+        type: 2}
+      propertyPath: randomSeed
+      value: -1303888140
+      objectReference: {fileID: 0}
+    - target: {fileID: 198979550433905892, guid: 69e489815d10e264795954a75edde964,
+        type: 2}
+      propertyPath: CollisionModule.type
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 69e489815d10e264795954a75edde964, type: 2}
   m_IsPrefabParent: 0
