@@ -1,11 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Age.Plugins", "Space Age.Plugins.csproj", "{A0F47128-DA11-666F-9484-71E0AAB50C0A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Age", "Space Age.csproj", "{B05860B5-038B-EE3B-6519-E82BD2A61010}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Age.Editor.Plugins", "Space Age.Editor.Plugins.csproj", "{F04DC799-6E44-8661-00F5-BFC11FE863B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Age.Editor", "Space Age.Editor.csproj", "{13206E98-DFC9-CC82-9BFF-3DF4101A25F4}"
 EndProject
@@ -15,18 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A0F47128-DA11-666F-9484-71E0AAB50C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0F47128-DA11-666F-9484-71E0AAB50C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0F47128-DA11-666F-9484-71E0AAB50C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0F47128-DA11-666F-9484-71E0AAB50C0A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B05860B5-038B-EE3B-6519-E82BD2A61010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B05860B5-038B-EE3B-6519-E82BD2A61010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B05860B5-038B-EE3B-6519-E82BD2A61010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B05860B5-038B-EE3B-6519-E82BD2A61010}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F04DC799-6E44-8661-00F5-BFC11FE863B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F04DC799-6E44-8661-00F5-BFC11FE863B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F04DC799-6E44-8661-00F5-BFC11FE863B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F04DC799-6E44-8661-00F5-BFC11FE863B5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{13206E98-DFC9-CC82-9BFF-3DF4101A25F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{13206E98-DFC9-CC82-9BFF-3DF4101A25F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13206E98-DFC9-CC82-9BFF-3DF4101A25F4}.Release|Any CPU.ActiveCfg = Release|Any CPU

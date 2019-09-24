@@ -295,25 +295,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Space Age.Plugins.csproj">
-      <Project>{A0F47128-DA11-666F-9484-71E0AAB50C0A}</Project>
-      <Name>Space Age.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="Space Age.csproj">
       <Project>{B05860B5-038B-EE3B-6519-E82BD2A61010}</Project>
       <Name>Space Age</Name>
     </ProjectReference>
-    <ProjectReference Include="Space Age.Editor.Plugins.csproj">
-      <Project>{F04DC799-6E44-8661-00F5-BFC11FE863B5}</Project>
-      <Name>Space Age.Editor.Plugins</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\StarSparrow\Readme\Readme Files\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Assets\Asset Packs\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+    <Compile Include="Assets\Asset Packs\StarSparrow\Readme\Readme Files\Scripts\Editor\ReadmeEditor.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
+    <None Include="Assets\Asset Packs\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Asset Packs\Standard Assets\Fonts\OpenSans\License!.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
